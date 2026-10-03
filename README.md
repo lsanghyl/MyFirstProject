@@ -1,2 +1,2 @@
 # MyFirstProject
-첫번프로젝트
+첫번째프로젝트
